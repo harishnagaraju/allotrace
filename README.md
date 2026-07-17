@@ -123,7 +123,7 @@ If your team has ever asked *"which customer caused this Datadog spike?"* and ha
 
 ## License
 
-AlloTrace core is licensed under the [AGPL 3.0 License](LICENSE).
+AlloTrace core is licensed under the [Apache 2.0. License](LICENSE).
 
 ---
 
